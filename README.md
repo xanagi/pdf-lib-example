@@ -1,12 +1,13 @@
 # pdf-lib-example
 
-PDF 結合
+[PDF-LIB](https://pdf-lib.js.org/) サンプル
+
+## PDF 結合
 ```
 npm run merge
-
 ```
 
-PDF からページ抜き出し
+## PDF からページ抜き出し
 ```
 npm run extract
 ```
