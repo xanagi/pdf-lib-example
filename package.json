@@ -12,8 +12,8 @@
     "typescript": "^4.5.5"
   },
   "scripts": {
-    "merge": "ts-node merge.ts",
-    "extract": "ts-node extract.ts"
+    "merge": "ts-node src/merge.ts",
+    "extract": "ts-node src/extract.ts"
   },
   "repository": "",
   "author": "Tomonori Kusanagi <kusanagi@banana-systems.com>",
